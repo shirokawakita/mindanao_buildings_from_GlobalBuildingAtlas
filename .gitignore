@@ -1,0 +1,16 @@
+# Large downloads / generated building data (do not commit)
+data/raw/
+data/geoBoundaries-PHL-ADM0.geojson
+output/mindanao_buildings.geojson
+
+# Python
+__pycache__/
+*.pyc
+.Python
+.venv/
+.env
+
+# Hugging Face / OS
+.cache/
+Thumbs.db
+Desktop.ini

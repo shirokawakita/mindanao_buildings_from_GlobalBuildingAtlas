@@ -1,0 +1,8 @@
+geopandas>=0.14.0
+shapely>=2.0.0
+pyproj>=3.6.0
+huggingface_hub>=0.20.0
+ijson>=3.2.0
+requests>=2.31.0
+fiona>=1.9.0
+pyogrio>=0.7.0
